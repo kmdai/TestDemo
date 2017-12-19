@@ -26,7 +26,7 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    api project(':URLAnnotation')
-    annotationProcessor project(':URLAnnotationProcessor')
+    api project(':url-annotation')
+    annotationProcessor project(':url-annotation-processor')
     testCompile 'junit:junit:4.12'
 }

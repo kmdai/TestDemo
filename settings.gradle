@@ -1,1 +1,1 @@
-include ':app', ':URLAnnotationProcessor', ':URLAnnotation', ':annotation'
+include ':app', ':url-annotation-processor', ':url-annotation', ':annotation'
